@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "20349c4b-57ab-4054-92a2-95effb762758",
+            "Value": {
+                "id": "32f13c2e-4394-4336-b188-e3e1acb74cd6",
+                "resourcePath": "objects\\o_pushable\\o_pushable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "29146bef-375b-485b-8bc5-680e0bbc57d1",
             "Value": {
                 "id": "3252ee20-c0d7-4a41-8007-db70f95370a2",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "a8f0e4b5-3b8c-4a78-9833-46131ac01c7c",
+            "Value": {
+                "id": "51524848-1610-4b12-bbf9-0cdc4fb7022b",
+                "resourcePath": "scripts\\push_object\\push_object.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "0377d689-e92c-4a0f-be1b-9710ed48d4d3",
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "d7fedc46-5e3c-4a6f-87ae-9450c4a72a13",
+            "Value": {
+                "id": "3ecc84cb-c364-4332-bee1-561b5a9e59b0",
+                "resourcePath": "scripts\\check_if_pushed\\check_if_pushed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dbaa3bbb-bb76-48c3-949e-9bf275eee380",
             "Value": {
                 "id": "bce60c8b-ae08-4bbc-adb0-0376d8ec91ed",
@@ -185,7 +209,7 @@
         {
             "Key": "ef29c0c3-c687-49ee-ac1b-317b067927fe",
             "Value": {
-                "id": "919f61f2-a093-4f2e-8791-a282cdddd999",
+                "id": "943b3e90-81b8-46f8-85ca-427c54072a19",
                 "resourcePath": "objects\\o_player\\o_player.yy",
                 "resourceType": "GMObject"
             }
@@ -216,7 +240,9 @@
         }
     ],
     "script_order": [
-        "2ce5295e-a9f2-49c2-9ece-c188266affee"
+        "2ce5295e-a9f2-49c2-9ece-c188266affee",
+        "a8f0e4b5-3b8c-4a78-9833-46131ac01c7c",
+        "d7fedc46-5e3c-4a6f-87ae-9450c4a72a13"
     ],
     "tutorial": ""
 }
