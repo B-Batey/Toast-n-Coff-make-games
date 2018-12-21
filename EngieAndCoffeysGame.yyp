@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2ce5295e-a9f2-49c2-9ece-c188266affee",
+            "Value": {
+                "id": "df84a34d-6295-42c7-a9c8-96510e24a58c",
+                "resourcePath": "scripts\\movement\\movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "35368ccf-4563-4448-8476-b7e7ff6101c8",
             "Value": {
                 "id": "d9c2412a-dfb8-4197-8ef9-ad3eb3d42f7b",
@@ -208,7 +216,7 @@
         }
     ],
     "script_order": [
-        
+        "2ce5295e-a9f2-49c2-9ece-c188266affee"
     ],
     "tutorial": ""
 }
