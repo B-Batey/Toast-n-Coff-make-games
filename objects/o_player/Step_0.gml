@@ -7,19 +7,11 @@ else if(keyboard_check(ord("A")))
 	movement(-1, player_speed);
 }
 
-if(keyboard_check(ord("P")))
+if(keyboard_check(vk_space))
 {
-	push_object(o_player, 15, -10);
+	push_object(o_player, image_xscale * 15, -10);
 }
 
 check_if_pushed();
 
-if (y <= 704)
-{
-	y += player_gravity;
-	player_gravity += 1;
-}
-else
-{
-	player_gravity = 0;
-}
+apply_grav();

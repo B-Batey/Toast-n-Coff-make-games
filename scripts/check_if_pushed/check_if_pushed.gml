@@ -1,4 +1,4 @@
-if (y <= 704) // Airborne
+if (!place_meeting(x, y + hspeed + 1, o_wall)) // Airborne
 {
 	// Push right
 	if (x_velocity > 0)
@@ -51,5 +51,12 @@ else // Grounded
 	}
 }
 
-x += x_velocity;
-y += y_velocity;
+if (!place_meeting(x + x_velocity, y, o_wall))
+{
+	x += x_velocity;
+}
+
+if (!place_meeting(x, y + y_velocity, o_wall))
+{
+	y += y_velocity;
+}
