@@ -135,6 +135,22 @@
             }
         },
         {
+            "Key": "643f07f0-19f6-464e-8c8a-4a643a99ece8",
+            "Value": {
+                "id": "3f729882-6974-477a-bc51-ad0fdb2c49d1",
+                "resourcePath": "objects\\o_hurtbox\\o_hurtbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "743ad3e3-a054-4d42-b939-d5ad97732cf3",
+            "Value": {
+                "id": "59993806-96d2-4081-b1a7-94154253f7a2",
+                "resourcePath": "objects\\o_spawn\\o_spawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "77d9a846-bfbd-4319-9144-959e9225b235",
             "Value": {
                 "id": "7ec43906-b352-4e78-8bb4-62127566ca80",
@@ -183,6 +199,14 @@
             }
         },
         {
+            "Key": "a1c8f1ab-717e-4256-abf0-4d4ecd50aa53",
+            "Value": {
+                "id": "6d3df6ec-9d24-4f16-a42e-98f4104f19af",
+                "resourcePath": "sprites\\s_death\\s_death.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a8f0e4b5-3b8c-4a78-9833-46131ac01c7c",
             "Value": {
                 "id": "51524848-1610-4b12-bbf9-0cdc4fb7022b",
@@ -220,6 +244,22 @@
                 "id": "6bcec3cf-9a69-48a9-afdb-b85decc1f236",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d3a9eab7-43d3-40e2-b86a-9d8bdf65c1e9",
+            "Value": {
+                "id": "eaf95ca8-e6ef-4218-a872-006a998c2654",
+                "resourcePath": "objects\\o_dangerObject\\o_dangerObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d4ed8870-8af8-4555-9f46-c04d96431502",
+            "Value": {
+                "id": "aab4da03-6786-47f5-bc2f-77a8a0a981e2",
+                "resourcePath": "scripts\\player_death\\player_death.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -307,7 +347,8 @@
         "2ce5295e-a9f2-49c2-9ece-c188266affee",
         "a8f0e4b5-3b8c-4a78-9833-46131ac01c7c",
         "d7fedc46-5e3c-4a6f-87ae-9450c4a72a13",
-        "ef13afa6-d216-458d-843b-eb1b618bb058"
+        "ef13afa6-d216-458d-843b-eb1b618bb058",
+        "d4ed8870-8af8-4555-9f46-c04d96431502"
     ],
     "tutorial": ""
 }
