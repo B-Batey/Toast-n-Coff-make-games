@@ -6,5 +6,8 @@ var target = argument0;
 var initial_x_speed = argument1;
 var initial_y_speed = argument2;
 
-target.x_velocity = initial_x_speed;
-target.y_velocity = initial_y_speed;
+//target.x_velocity = initial_x_speed;
+//target.y_velocity = initial_y_speed;
+
+
+physics_apply_impulse(target.id.x, target.id.y, initial_x_speed, initial_y_speed);
