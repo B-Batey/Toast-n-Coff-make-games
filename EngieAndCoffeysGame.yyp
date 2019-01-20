@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "20349c4b-57ab-4054-92a2-95effb762758",
-            "Value": {
-                "id": "32f13c2e-4394-4336-b188-e3e1acb74cd6",
-                "resourcePath": "objects\\o_pushable\\o_pushable.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "29146bef-375b-485b-8bc5-680e0bbc57d1",
             "Value": {
                 "id": "3252ee20-c0d7-4a41-8007-db70f95370a2",
